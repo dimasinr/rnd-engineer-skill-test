@@ -13,7 +13,7 @@
   - Pengurangan kesalahan
   - Peningkatan produktivitas
 
-## Proses 5 Langkah
+## Prosesnya
 
 1. **Terima Permintaan**
    - Kumpulkan detail kebutuhan
@@ -26,16 +26,13 @@
    - Hitung ROI potensial
 
 3. **Prioritisasi**
-   - Buat matriks dampak vs upaya
    - Pilih proyek dengan ROI tertinggi
    - Setujui dengan stakeholder
 
 4. **Buat Prototipe**
    - Fokus pada alur kerja inti
-   - Kumpulkan umpan balik awal
    - Hindari fitur yang tidak perlu
 
 5. **Evaluasi & Iterasi**
    - Ukur metrik keberhasilan
-   - Analisis umpan balik pengguna
    - Rencanakan iterasi berikutnya
