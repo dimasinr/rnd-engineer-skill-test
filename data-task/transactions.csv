@@ -1,1 +1,10 @@
-    
+user_id,transaction_id,amount,category,timestamp,status
+101,TXN001,120,onboarding,2024-01-01 10:12:00,success
+101,TXN002,140,usage,2024-01-03 12:42:00,success
+102,TXN003,,usage,2024-01-02 08:50:00,failed
+103,TXN004,95,usage,2024-01-04 15:05:00,success
+101,TXN005,200,upgrade,2024-02-01 17:00:00,success
+104,TXN006,300,usage,2024-02-01 10:00:00,failed
+103,TXN007,180,upgrade,2024-02-02 11:12:00,success
+105,TXN008,-100,usage,2024-02-03 14:45:00,success
+103,TXN009,90,usage,2024-03-04 10:30:00,success

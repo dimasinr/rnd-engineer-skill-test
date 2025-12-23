@@ -6,7 +6,7 @@ Kode ini membuat sistem multi-threading dengan karakteristik berikut:
 - Membuat 10 thread yang berjalan secara paralel
 - Setiap thread menjalankan 100 iterasi proses
 - Setiap iterasi melakukan:
-  - Simulasi kegagalan I/O secara acak (30% kemungkinan error)
+  - Simulasi kegagalan I/O secara acak
   - Meningkatkan counter global
   - Menambahkan data ke dalam list global
 - Program menunggu semua thread selesai sebelum berakhir
