@@ -1,0 +1,1 @@
+Kalau PoC mau live dalam 3 bulan, fokus utamanya kecepatan dan hasil yang akurat. Pilih OpenAI API kalau ingin cepat dan kualitas tinggi meski biayanya lebih mahal. Pilih local LLM kalau mau hemat biaya dan bisa toleransi proses lebih lambat dengan kualitas sedikit lebih rendah. Untuk timeline pendek, OpenAI API biasanya pilihan paling ok
